@@ -1,5 +1,11 @@
 body {
-    background-color: lightblue;
+  background: #F17370;
+  color: #FFFFFF;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  font-family: 'Avenir', Arial;
+  font-weight: 600;
+  font-size: 3em;
 }
 
 h1 {
