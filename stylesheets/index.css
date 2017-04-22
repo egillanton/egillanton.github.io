@@ -1,19 +1,51 @@
 body {
-  background: #F17370;
-  color: #FFFFFF;
+  background: #0081C4;
   overflow-y: scroll;
   overflow-x: hidden;
-  font-family: 'Avenir', Arial;
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
   font-weight: 600;
   font-size: 3em;
 }
 
+div{
+	display: block;
+}
 h1 {
     color: white;
     text-align: center;
 }
 
-p {
-    font-family: verdana;
-    font-size: 20px;
+.btn-group{
+	background: transparent;
+	color: white;
+	text-align: center;
+}
+
+.btn{
+	color: white;
+	background: transparent;
+    cursor: auto;
+	text-decoration: none;
+	margin: 0 0.25em;
+    display: inline-block;
+}
+
+.btn:hover{
+	background: #004777;
+	color: #FFC758;
+}
+
+
+#profileImage{
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 1em;
+	display:block;
+	background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    overflow: hidden;
+    padding:5px 4px;
+    width: 250px;
+    height: 313px;
 }
