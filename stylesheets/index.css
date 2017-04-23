@@ -15,6 +15,10 @@ h1 {
     text-align: center;
 }
 
+h5 {
+    color: white;
+    text-align: center;
+}
 .btn-group{
 	background: transparent;
 	color: white;
