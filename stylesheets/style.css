@@ -1,0 +1,19 @@
+body {
+  background: #0081C4;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  font-family: "Trebuchet MS", Futura, sans-serif;
+  font-weight: 600;
+  font-size: 3em;
+}
+
+div{
+	display: block;
+}
+
+
+h1#main-header{
+  color: white;
+  text-align: center;
+  margin: 20px auto;
+}
