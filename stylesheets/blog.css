@@ -1,0 +1,9 @@
+body {
+
+}
+
+.jumbotron {
+  background-image: url('../images/blog.jpg')
+  height: 400px;
+  background-position: bottom center;
+}
