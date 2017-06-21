@@ -1,32 +1,54 @@
-.btn{
-	color: white;
-	background: transparent;
-    cursor: auto;
-	text-decoration: none;
-	margin: 0 0.25em;
-    display: inline-block;
-}
-
-.btn:hover{
-	color: #141A30;
-}
-
-.btn-group{
-  background: transparent;
-  color: white;
-  text-align: center;
-}
-
 #profileImage{
-	margin-left: auto;
-	margin-right: auto;
-	margin-bottom: 1em;
-	display:block;
-	background-repeat: no-repeat;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1em;
+  display:block;
+  background-repeat: no-repeat;
   background-position: 50%;
   border-radius: 50%;
   overflow: hidden;
   padding:5px 4px;
   width: 300px;
   height: 300px;
+}
+
+.btn-group{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.btn{
+	color: #F0ECE1;
+	background: transparent;
+  cursor: auto;
+	text-decoration: none;
+	margin: 0 0.25em;
+  display: inline-block;
+}
+
+.btn:hover{
+	color: #141A30;
+}
+
+
+.icon-group {
+  background: #141A30;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+}
+
+.item{
+  text-align: center;
+  display: inline-block;
+}
+
+.item img{
+  width: 50px;
+  height: 50px;
 }
