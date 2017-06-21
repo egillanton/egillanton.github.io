@@ -1,15 +1,15 @@
 #profileImage{
+  background-position: 50%;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  display:block;
+  height: 300px;
+  margin-bottom: 1em;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 1em;
-  display:block;
-  background-repeat: no-repeat;
-  background-position: 50%;
-  border-radius: 50%;
   overflow: hidden;
   padding:5px 4px;
   width: 300px;
-  height: 300px;
 }
 
 .btn-group{
@@ -20,11 +20,11 @@
 }
 
 .btn{
-	color: #F0ECE1;
-	background: transparent;
+  background: transparent;
+  color: #F0ECE1;
+  margin: 0 0.25em;
+  text-decoration: none;
   cursor: auto;
-	text-decoration: none;
-	margin: 0 0.25em;
   display: inline-block;
 }
 
@@ -32,23 +32,29 @@
 	color: #141A30;
 }
 
-
 .icon-group {
   background: #141A30;
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 1rem;
   text-align: center;
 }
 
 .item{
-  text-align: center;
   display: inline-block;
+  text-align: center;
 }
 
 .item img{
-  width: 50px;
   height: 50px;
+  width: 50px;
+}
+
+#footer {
+  background:#141A30;
+  bottom: 0px;
+  bottom:0;
+  height:60px;      /* Height of the footer */
+  left: 0px;
+  padding: 1rem;
+  position:absolute;
+  right: 0px;
+  width:100%;
 }
