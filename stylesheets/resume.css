@@ -187,3 +187,6 @@ p label {
 	padding: 0;
 }
 
+span.info > div > div {
+    padding-bottom: 20px;
+}
