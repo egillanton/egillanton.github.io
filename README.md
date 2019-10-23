@@ -3,7 +3,11 @@ My Personal Website
 </h1>
 
 <img src="img/screenshot.png" alt="Screenshot" align="center"/>
-<a align="center" href="http://egillanton.com/"><h2>www.egillanton.com</h2></a>
+
+<h2 align="center">
+<a href="http://egillanton.com">www.egillanton.com</a>
+</h2>
+
 
 
 ## References
