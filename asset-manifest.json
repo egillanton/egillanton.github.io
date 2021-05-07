@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/egillanton.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/egillanton.github.io/static/js/main.de9014dc.chunk.js",
+    "main.js.map": "/egillanton.github.io/static/js/main.de9014dc.chunk.js.map",
+    "runtime-main.js": "/egillanton.github.io/static/js/runtime-main.66237bcf.js",
+    "runtime-main.js.map": "/egillanton.github.io/static/js/runtime-main.66237bcf.js.map",
+    "static/js/2.d0eb047a.chunk.js": "/egillanton.github.io/static/js/2.d0eb047a.chunk.js",
+    "static/js/2.d0eb047a.chunk.js.map": "/egillanton.github.io/static/js/2.d0eb047a.chunk.js.map",
+    "static/js/3.a6e4d959.chunk.js": "/egillanton.github.io/static/js/3.a6e4d959.chunk.js",
+    "static/js/3.a6e4d959.chunk.js.map": "/egillanton.github.io/static/js/3.a6e4d959.chunk.js.map",
+    "index.html": "/egillanton.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/egillanton.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d0eb047a.chunk.js.LICENSE.txt": "/egillanton.github.io/static/js/2.d0eb047a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/egillanton.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66237bcf.js",
+    "static/js/2.d0eb047a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.de9014dc.chunk.js"
+  ]
+}
